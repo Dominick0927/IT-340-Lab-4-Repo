@@ -1,1 +1,252 @@
-Disk usage report generated on Mon Sep 29 11:44:48 PM EDT 2025
+Disk Report - Thu Sep 25 12:35:48 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   28K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Thu Sep 25 12:50:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.4G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   40K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Thu Sep 25 12:55:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   40K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Thu Sep 25 01:00:02 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   40K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Thu Sep 25 01:05:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   40K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:25:47 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   40K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:30:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   40K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:35:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:40:02 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:45:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  144K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:50:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Mon Sep 29 11:55:02 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.3G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:00:02 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:05:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:06:00 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:10:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:10:18 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  136K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:11:54 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:15:02 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  140K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:18:00 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
+Disk Report - Tue Sep 30 12:20:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.2M  334M   1% /run
+/dev/sda2        20G   11G  8.0G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   44K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M  132K  336M   1% /run/user/1000
+/dev/sr0        100M  100M     0 100% /media/dominick/CDROM
+---------------------
